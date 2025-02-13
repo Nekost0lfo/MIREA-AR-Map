@@ -1,0 +1,4 @@
+repository "MIREA AR Map/MIREA AR Map@10170615512550@cloud"
+  path "/"
+    br "/main"
+    co "/main"

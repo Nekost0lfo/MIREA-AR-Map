@@ -1,0 +1,1 @@
+C:\Users\danii\MIREA AR Map\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\cxx\RelWithDebInfo\435j3a3o\obj\arm64-v8a

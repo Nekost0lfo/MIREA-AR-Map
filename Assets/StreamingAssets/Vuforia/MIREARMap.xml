@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="MIREAR" size="512.000000 512.000000" />
+    <ImageTarget name="MIREA" size="1080.000000 1080.000000" />
+  </Tracking>
+</QCARConfig>
